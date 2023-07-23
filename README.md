@@ -1,4 +1,4 @@
-
+![logo](https://giphy.com/clips/crunchyroll-girlfriend-rent-rent-a-girlfriend-4NSkVEmOwSCQrhuWEq)
 <!--
 ### Hi there 👋
 **DragonJ-Mj/dragonJ-MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
