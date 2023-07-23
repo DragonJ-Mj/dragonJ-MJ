@@ -1,4 +1,4 @@
-#Hello Friends
+# HELLO FRIENDS
 <div align="center">
 
 ![](https://media3.giphy.com/media/pJkU8QIbZmdO84fdif/giphy.gif?cid=ecf05e47tnl2n3nupwth4j35jyncy0kvkxzez36hkx7962ir&ep=v1_gifs_search&rid=giphy.gif&ct=g)
@@ -6,7 +6,7 @@
 </div>
 
 <!--
-### Hi there 👋
+### Hi myself Mj 👋
 **DragonJ-Mj/dragonJ-MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,16 +20,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm DragonJ</h1>
+<h1 align="center">Hi 👋, I'm DragonJ (MJ)</h1>
 <h3 align="center">FSD | CEH | Software Engineer</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/KuRbQrfkw9yco/giphy.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonj-mj&label=Profile%20views&color=0e75b6&style=flat" alt="dragonj-mj" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragonj-mj" alt="dragonj-mj" /></a> </p>
-
+-->
+<!--
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+-->
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **Whatsapp No. 9827568100**
