@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **Whatsapp No. 9827568100**
+- 📫 How to reach me **Whatsapp No. 9826630100**
 
 - ⚡ Fun fact **Understanding machines is a lot easier than understanding a person. Specifically a girl.**
 
