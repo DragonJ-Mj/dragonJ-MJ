@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <!--
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -->
+
+<img  width="100" src="https://media.giphy.com/media/jVqYgn09W8FHEf0BBS/giphy.gif" alt="">
+
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **Whatsapp No. 9826630100**
@@ -50,3 +53,10 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragonj-mj&show_icons=true&locale=en" alt="dragonj-mj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragonj-mj&" alt="dragonj-mj" /></p>
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
